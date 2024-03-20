@@ -7,7 +7,7 @@ class TestCalculator:
 
 
     def test_addition_secon(self):
-        assert 6 == Calculate.add(3, 2)
+        assert 5 == Calculate.add(3, 2)
 
     def test_subtraction(self):
         assert 2 == Calculate.subtract(4, 2)
